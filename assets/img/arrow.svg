@@ -1,8 +1,0 @@
-<svg class="qodef-svg--button-arrow" xmlns="http://www.w3.org/2000/svg" width="40" viewBox="0 0 40 25">
-    <line style="fill:none; stroke: currentColor; stroke-miterlimit:10; stroke-width:3px;" y1="12.5" x2="40" y2="12.5">
-    </line>
-    <path style="fill:none; stroke: currentColor; stroke-miterlimit:10; stroke-width:3px;"
-        d="M40,12.5C28.69,12.5,28,25,28,25"></path>
-    <path style="fill:none; stroke: currentColor; stroke-miterlimit:10; stroke-width:3px;" d="M28,0s.69,12.5,12,12.5">
-    </path>
-</svg>
